@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\Education\\Downloads\\Unit-master\\Unit-master\\HW1\\libs\\assertj-core-3.23.1.jar"
+        ]
+    }
+}
